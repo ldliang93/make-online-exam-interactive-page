@@ -1,0 +1,17 @@
+body{
+  width: 800px;
+  margin-left: 50px;
+}
+
+#fill_in_the_blanks li{
+  margin-top: 5px;
+}
+
+#judge li{
+  margin-top: 5px;
+}
+
+#short_answer_text{
+  width: 600px;
+  height: 200px;
+}
